@@ -68,8 +68,7 @@ stateDiagram-v2
 ## Real-world run
 
 These are actual alerts from the system running unattended over several days (Sep 29 – Oct 1, 2026):
-
-<p align="center"><img src="docs/alerts.png" width="360" alt="Push notifications from the monitor"></p>
+<img width="722" height="1568" alt="image" src="https://github.com/user-attachments/assets/9ea5d8d2-6187-47d4-a8a2-33f31e51d568" />
 
 They show each part of the pipeline working end to end:
 

@@ -98,4 +98,4 @@ That booking attempt was **rejected by the portal** (error `PSE0601`). The pipel
 
 ---
 
-*Source code is available on request for interview purposes.*
+*Source code is available on request*
